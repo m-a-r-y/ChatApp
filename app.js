@@ -13,5 +13,5 @@ io.on('connection', function(socket){
 });
 
 http.listen(9900, function(){
-  console.log('over 9000?!?!');
+  console.log('Welcome to Chat');
 });
